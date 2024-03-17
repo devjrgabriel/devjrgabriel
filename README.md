@@ -15,23 +15,19 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
+<a href="https://www.instagram.com/engs__gabriel/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/9b29e9c8-ef97-4e94-aa96-97685c9e0468">
 </a>
 
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
+<a href="mailto:devjrgabrielsouza@gmail.com" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/72d74a10-3495-4720-8faf-067b527ee046">
 </a>
 
 
 <a href="mailto:cmp.1a.caroline@gmail.com">
-<img align="center"  height="80" width="80" src="[https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0](https://github.com/devjrgabriel/devjrgabriel/assets/163475101/992e483b-1bdb-4ac0-96d7-f6526cc03f00)">
+<img align="center"  height="80" width="80" src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/992e483b-1bdb-4ac0-96d7-f6526cc03f00">
 </a>
 
-
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
 
 </div>
 
