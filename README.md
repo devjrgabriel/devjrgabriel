@@ -2,14 +2,14 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+SC&size=26&pause=1000&color=FFFFFF&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo!;Me+chamo+Gabriel+Souza!;Sou+Engenheiro+de+Software!;Full+stack+developer!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+SC&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&background=FF000000&center=true&vCenter=true&random=false&width=1000&height=150&lines=Welcome!;My+name+is+Gabriel+Souza!;I'm+a+software+engineer!;I'm+a+Full+stack+developer!+)](https://git.io/typing-svg)
 
 <br>
-<br>
+
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devjrgabriel&locale=pt_BR&card_width=900&background=45%2CEBEBEB%2CEBE0BC)](https://git.io/streak-stats)
 
 </div>
 
