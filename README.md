@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center"> 
+<div align="center" > 
 <a href="https://www.instagram.com/engs__gabriel/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/9b29e9c8-ef97-4e94-aa96-97685c9e0468">
 </a>
