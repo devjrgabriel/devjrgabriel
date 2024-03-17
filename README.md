@@ -1,4 +1,4 @@
-<img width=110% bottom=50px src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/18fe239b-857f-418b-beed-4f9edfda94e4">
+<img width=110% bottom=50px src="https://github.com/devjrgabriel/devjrgabriel/assets/163475101/7399076a-8711-4c08-ada8-7ebcd301eb6d">
 <br>
 <br> 
 
